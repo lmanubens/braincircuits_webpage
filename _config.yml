@@ -1,7 +1,7 @@
 title: Brain Architecture Project
 description: Data sets and code for the Brain Architecture Project
 baseurl: ""
-url: "https://data.brainarchitecture.org"
+url: "https://lmanubens.github.io/braincircuits_webpage"
 
 # Build settings
 markdown: kramdown
